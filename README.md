@@ -1,6 +1,5 @@
 # price-scraper
 using mongodb nodejs graphql
-
 1. Clone this repo using https://github.com/rchetouani/price-scraper.git
 
 2.Move to the appropriate directory: cd price-scraper.
